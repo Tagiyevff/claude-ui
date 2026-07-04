@@ -11,6 +11,9 @@ A premium, modern AI chat interface inspired by Anthropic's Claude.ai design, bu
 
 ---
 
+
+![Banner](Uİ.png)
+
 ## 🎨 Key Features
 
 ### 💻 Claude-Style Aesthetics & UX
